@@ -3,8 +3,7 @@
 <!-- Start Banner Area -->
 <section class="banner-area organic-breadcrumb">
     <div class="container">
-        <div class="breadcrumb-banner d-flex flex-wrap align-items-center
-justify-content-end">
+        <div class="breadcrumb-banner d-flex flex-wrap align-items-center-justify-content-end">
             <div class="col-first">
                 <h1>Halaman Detail Produk</h1>
                 <nav class="d-flex align-items-center">

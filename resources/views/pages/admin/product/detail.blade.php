@@ -6,8 +6,7 @@
         <div class="section-header">
             <h1>Detail Produk</h1>
             <div class="section-header-breadcrumb">
-                <div class="breadcrumb-item active"><a href="{{ route('admin.dashboard') }}">Dashboard
-                    </a></div>
+                <div class="breadcrumb-item active"><a href="{{ route('admin.dashboard') }}">Dashboard</a></div>
                 <div class="breadcrumb-item active"><a href="{{ route('admin.product') }}">Produk</a></div>
                 <div class="breadcrumb-item">Detail Produk</div>
             </div>
